@@ -44,7 +44,7 @@ int main()
             greatest = val2;
         } else {
             middlest = val2;
-            greatest = val3;
+            greatest = val1;
         }
     }
 
