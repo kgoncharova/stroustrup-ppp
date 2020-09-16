@@ -6,11 +6,11 @@ int main()
     string friend_name;
     char friend_sex = '0';
     int age = 0;
-        
+
     cout << "Enter the name of the person you want to write to:\n";
     cin >> first_name;
     cout << "Dear " << first_name << ",\n"
-         << "   How are you doing?\n";
+         << " How are you doing?\n";
     cout << "Please enter the name of someone you both know:\n";
     cin >> friend_name;
     cout << "Have you heard from " << friend_name << " lately?\n";
