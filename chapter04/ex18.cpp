@@ -20,7 +20,6 @@ int main()
         x1 = (-b + sqrt(discriminant)) / (2*a);
         cout << "Roots are real and same." << endl;
         cout << "x1 = x2 =" << x1 << endl;
-        
     } else {
         realPart = -b/(2*a);
         imaginaryPart =sqrt(-discriminant)/(2*a);
